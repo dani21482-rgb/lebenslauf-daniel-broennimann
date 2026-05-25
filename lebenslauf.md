@@ -19,6 +19,18 @@
 
 ## Berufliche Laufbahn
 
+
+### Januar 2024 – offen
+**Prozessfachmann 3D Laser** | Büchi AG, Wil SG
+- Eruieren von Machbarkeiten bei neuen Kundenanfragen inkl. Fertigungskonzepte und Aufspannungen
+- Konstruktion effizienter und kostenoptimierter Aufnahmen
+- Programmierung und Optimierung von 5 Axen CAM Cell und Teaching Panel 
+- Erstellen von Arbeitsanweisungen
+- Einrichten der Maschinen für 3D Laserschweißen von Assembly und 3D Schneiden von tiefgezogenen-gedrückten oder flachen Blechen
+- Sicherstellung der Qualität für Produkte der Medizin-, Automobil-, Textil- und allgemeinen Industrien, Optisches Prüfen, Messen und Richten der Teile 
+- Einarbeitung, Anleitung und Kontrolle von Mitarbeitenden
+- Organisation und Koordination externer Wartungen-Maschinenumbauten sowie das Selbstständige beheben von Fehlermeldungen und Wartung der Maschine
+
 ### Februar 2023 – Juni 2023
 **Verkauf & Projektleitung Maschinen-/Metallbau** | Ed. Keller AG, Kirchberg SG
 - Bestellungen und Kundenanfragen evaluieren und kommunizieren
@@ -113,7 +125,7 @@
 - Verkauf, Ladenkundschaft technisch und kommerziell betreuen und beraten
 - Lieferscheine, Barfakturen, Offerten erstellen und nachfassen
 - Kundenanfragen und Kundenbestellungen aufnehmen, Vertragsprüfung durchführen
-- Lager/Warenlager optimal bewirtschaften, Ein- und Auslagerung
+- Warenlager optimal bewirtschaften, Ein- und Auslagerung
 - Spedition: Post- und Paketversand, Warenannahme, Eingangskontrollen
 - Einkauf: kundenspezifische Einkaufsbestellungen erstellen
 - Inventur durchführen, Warenlager zählen
@@ -147,7 +159,7 @@
 
 ### Juni 2004 – November 2004
 **Polymechaniker (temporär)** | Eurojob Ost AG, Wil
-- Temporäre Einsätze als Polymechaniker
+- Temporäre Einsätze als Polymechaniker Drehen / Fräsen und Schweissen MIG / TIG
 
 ### Juli 2003 – Dezember 2003
 **Polymechaniker (befristet)** | Schmid AG, Eschlikon
