@@ -66,6 +66,7 @@ Nachträglich ergänzte Einzelzertifikate, die noch nicht Teil der obigen Sammlu
 |---|---|---|
 | `Brönnimann_Daniel_Zertifikat_AI-Automations-Manager_TUEV_2026.pdf` | AI-Automations-Manager – Everlast, TÜV SÜD Akademie | 30.01.2026 – 29.01.2029 (Nr. 5616137-004409923-02) |
 | `Brönnimann_Daniel_Zertifikat_Bedienerkurs_TruLaser_Cell_3000_2024.pdf` | Bedienerkurs TruLaser Cell 3000, TRUMPF Global Training Center Ditzingen | 22.–26.01.2024 |
+| `Brönnimann_Daniel_Zwischenzeugnis_Büchi_AG_2026.png` | Zwischenzeugnis Büchi AG (Prozessfachmann 3D-Laser, seit 01.01.2024, ungekündigtes Arbeitsverhältnis) | Ausgestellt Wil, 10.02.2026, unterzeichnet Florian Güpfert |
 
 ---
 

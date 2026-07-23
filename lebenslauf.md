@@ -22,6 +22,7 @@
 
 ### Januar 2024 – offen
 **Prozessfachmann 3D Laser** | Büchi AG, Wil SG
+*(Zwischenzeugnis vom 10.02.2026 vorhanden)*
 - Eruieren von Machbarkeiten bei neuen Kundenanfragen inkl. Fertigungskonzepte und Aufspannungen
 - Konstruktion effizienter und kostenoptimierter Aufnahmen
 - Programmierung und Optimierung von 5 Axen CAM Cell und Teaching Panel 
