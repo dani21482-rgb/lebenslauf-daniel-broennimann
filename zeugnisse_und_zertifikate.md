@@ -72,7 +72,8 @@ Nachträglich ergänzte Einzelzertifikate, die noch nicht Teil der obigen Sammlu
 
 ## Status
 
-- [x] Berufserfahrung – alle Arbeitgeber mit Zeugnis belegt
+- [x] Berufserfahrung – alle Arbeitgeber mit Zeugnis belegt (Ausnahme: Ed. Keller AG, Feb–Jun 2023 – kein Zeugnis im Bestand)
 - [x] Ausbildungen/Diplome – vollständig
 - [x] Aktuelle Zertifikate (TÜV, TRUMPF) – ergänzt
-- [ ] Design-Referenz für die Website – steht noch aus
+- [x] Design-Referenz für die Website – recherchiert (siehe `WEBSITE_MASTER_PROMPT.md`, Abschnitt 4)
+- [x] Einzelverlinkung der Belege in `index.html` – Timeline-Badges, Ausbildungs-/Zertifikat-Karten und Portfolio verlinken direkt auf die jeweiligen Dateien/Seiten
