@@ -33,6 +33,31 @@
     });
   });
 
+  const luminaOrbs = document.querySelectorAll('.lumina-orb');
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (luminaOrbs.length && !reduceMotion) {
+    let ticking = false;
+    const updateLumina = () => {
+      const scrollY = window.scrollY;
+      luminaOrbs.forEach((orb, i) => {
+        const freq = 700 + i * 180;
+        const amp = 90 + i * 20;
+        const tx = Math.sin(scrollY / freq + i * 1.8) * amp;
+        const ty = Math.cos(scrollY / (freq * 0.8) + i * 1.2) * (amp * 0.8);
+        const rotate = (scrollY / 15 + i * 45) % 360;
+        orb.style.transform = `translate3d(${tx}px, ${ty}px, 0) rotate(${rotate}deg)`;
+      });
+      ticking = false;
+    };
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        requestAnimationFrame(updateLumina);
+        ticking = true;
+      }
+    }, { passive: true });
+    updateLumina();
+  }
+
   const revealEls = document.querySelectorAll('.reveal');
   if ('IntersectionObserver' in window && revealEls.length) {
     const observer = new IntersectionObserver((entries) => {
